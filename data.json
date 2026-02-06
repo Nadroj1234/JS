@@ -1,0 +1,14 @@
+{
+    "products": [
+        {"item": "Krabby Patty", "costToSeller": 4.35, "sellingPrice": 9.99},
+        {"item": "Jellifish Net", "costToSeller": 9.95, "sellingPrice": 19.99},
+        {"item": "Barnacle Boy Action Figure", "costToSeller": 14.75, "sellingPrice": 29.99},
+        {"item": "Golden Spatula", "costToSeller": 57.83, "sellingPrice": 99.99}
+    ],
+    "customers": [
+        {"name": "Spongebob Squarepants", "processing": 0, "purchases": [10,0,2,0]},
+        {"name": "Patrick Star", "processing": 7.50, "purchases": [0, 3, 0,1]},
+        {"name": "Sandy Cheeks", "processing": 15, "purchases": [5,1,1,1]},
+        {"name": "Squidward Tentacles", "processing": 2.50, "purchases": [2,1,0,0]}
+    ]
+}
